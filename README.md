@@ -6,7 +6,7 @@ In my repos you will find Java / Python / Javascript projects, exercises and exp
 
 I also love Automation and Artifical Intelligence(exploring on GenAI currenlty), I hope you can find something useful or interesting around here.I generally document my learning here.
 
-Happy hacking :)
+Happy writing amazing code :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyani33&label=Profile%20views&color=0e75b6&style=flat" alt="kalyani33" /> </p>
 
