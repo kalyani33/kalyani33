@@ -12,7 +12,7 @@ Keep writing amazing code :)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyani33" alt="kalyani33" /></a> </p> -->
 
-- 🔭 I’m currently working on **Python,Data engineering tools,AWS**
+- 🔭 I’m currently working on **Python,Data engineering tools,AWS,SQL,Databases**
 
 - 🌱 I’m currently learning **Realtime data streaming tools,data trends**
 
