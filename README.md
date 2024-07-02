@@ -14,7 +14,7 @@ Keep writing amazing code :)
 
 - 🔭 I’m currently working on **Python,Data engineering tools,AWS,SQL,Databases**
 
-- 🌱 I’m currently learning **Realtime data streaming tools,data trends**
+- 🌱 I’m currently learning **Realtime data streaming tools,data trends,GenAI**
 
 - 💬 Ask me about **Python,Data engineering**
 
